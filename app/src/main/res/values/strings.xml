@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event News</string>
+    <string name="title_upcoming">Upcoming Event</string>
+    <string name="title_finished">Finished Event</string>
+    <string name="event_image">Event Image</string>
+
+</resources>
